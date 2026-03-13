@@ -56,7 +56,7 @@ border-radius:10px;
 <div>
 
 <div class="agent">
-<h3>Strategy Wiz</h3>
+<h3>Strategy Wiz</h3
 <p>Portfolio allocation and strategy optimization.</p>
 </div>
 
