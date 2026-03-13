@@ -4,7 +4,7 @@
 <DOCTYE html>
 <html>
 <head>
-<title>RAFA AI</title>
+<title>RAFA AI</itle>
 <style>
 
 background:#071426
