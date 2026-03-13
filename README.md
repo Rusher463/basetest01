@@ -24,6 +24,7 @@ background:#0e223a;
 margin:10px;
 padding:20px;
 border-radius:10px;
+
 }
 </style>
 </head>
