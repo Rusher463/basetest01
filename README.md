@@ -13,7 +13,6 @@ color:white;
 font-family:Arial;
 text-align:center;
 }
-
 h1{
 color:#00ffd5;
 }
