@@ -12,7 +12,6 @@ color:white;
 font-family:Arial;
 text-align:center;
 
-h
 color:#00ffd5;
 }
 
