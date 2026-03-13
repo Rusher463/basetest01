@@ -55,7 +55,7 @@ border-radius:10px;
 
 <div class="agent">
 <h3>News Guru</h3>
-<p>AI-powered sentiment analysis from global news.</p>
+<p>AI-powered sentiment analysis from global news.</>
 </div>
 
 <div class="agent">
