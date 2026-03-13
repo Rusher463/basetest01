@@ -1,5 +1,5 @@
 # basetest01
-.
+
 1
 # RAFA AI – Autonomous Trading Intelligence
 <!DOCTYPE html>
