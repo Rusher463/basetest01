@@ -18,7 +18,6 @@ width:80%;
 margin:auto;
 padding:40px;
 
-
 .agent
 background:#0e223a;
 margin:10px;
