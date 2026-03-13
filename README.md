@@ -1,7 +1,7 @@
 # basetest01
 1
 #RAFA AI – Autonomous Trading Intelligence
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
 <head>
 <title>RAFA AI</title>
