@@ -7,7 +7,7 @@
 <title>RAFA AI</title>
 <style>
 
-background:#071426;
+background:#071426
 color:white
 font-family:Arial;
 text-align:center;
