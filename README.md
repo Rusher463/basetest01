@@ -9,7 +9,7 @@
 <style>
   
 background:#071426
-color:whit
+color:white
 font-family:Arial;
 text-align:center;
 
