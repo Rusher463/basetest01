@@ -17,7 +17,7 @@ color:#00ffd5;
 width:80%;
 margin:auto;
 padding:40px;
-}
+
 
 .agent
 background:#0e223a;
