@@ -55,6 +55,7 @@ border-radius:10px;
 <p>AI-powered sentiment analysis from global news.</>
 <div>
 
+
 <div class="agent">
 <h3>Strategy Wiz</h3
 <p>Portfolio allocation and strategy optimization.</p>
