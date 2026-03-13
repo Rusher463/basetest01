@@ -8,7 +8,7 @@
 <style>
 
 background:#071426;
-color:white;
+color:white
 font-family:Arial;
 text-align:center;
 
