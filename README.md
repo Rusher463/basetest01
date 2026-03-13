@@ -6,6 +6,7 @@
 <head>
 <title>RAFA AI</itle>
 <style>
+  
 background:#071426
 color:white
 font-family:Arial;
