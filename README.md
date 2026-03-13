@@ -23,7 +23,7 @@ margin:auto;
 padding:40px;
 }
 
-.agent{
+.agent
 background:#0e223a;
 margin:10px;
 padding:20px;
