@@ -13,7 +13,6 @@ font-family:Arial;
 text-align:center;
 
 color:#00ffd5;
-
 .container{
 width:80%;
 margin:auto;
